@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int a = 5;
+            int b = 5;
+            int ggt = MyMath.Calc_ggt(a, b);
+
+
+                Console.WriteLine($"Calc_gtt(): {factor}");
         }
     }
 }
